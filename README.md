@@ -1,4 +1,4 @@
-### Hi guys, I'm Danilo Silva 👋
+## Hi guys, I'm Danilo Silva 👋
 
 <div>
   <a href="https://github.com/danilo-silv">
@@ -34,4 +34,3 @@
  
 </div>
 
--->
